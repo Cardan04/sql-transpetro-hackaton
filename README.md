@@ -1,3 +1,12 @@
+Link Notebook das APIS:
+
+https://colab.research.google.com/drive/1UsVMGDqtElzSJ3hQig5aCU6LzwshFwrr#scrollTo=OL1TL5Yuqa5c
+
+Link Notebook do modelo Random Forest:
+
+https://colab.research.google.com/drive/1YyN5lve7QvvKkyB7ZuRW6kfb0hgZnXDz
+
+
 📖 Visão Geral
 
 Este projeto consiste em um sistema de análise e monitoramento marítimo, capaz de integrar dados AIS (Automatic Identification System) com informações ambientais como clima e condições de ondas, permitindo consulta unificada, análise operacional, previsões futuras e visualização via dashboard web.
