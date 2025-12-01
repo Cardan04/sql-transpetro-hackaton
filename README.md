@@ -1,3 +1,7 @@
+link do APP Sentinela:
+
+https://hacka-petro-analise-ia.vercel.app/
+
 Link Notebook das APIS:
 
 https://colab.research.google.com/drive/1UsVMGDqtElzSJ3hQig5aCU6LzwshFwrr#scrollTo=OL1TL5Yuqa5c
